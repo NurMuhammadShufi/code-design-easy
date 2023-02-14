@@ -1,2 +1,2 @@
 # code-design-easy
-Not yet responsive
+Not yet responsive -- Updated Soon :v
